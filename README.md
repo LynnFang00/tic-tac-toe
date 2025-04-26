@@ -25,7 +25,7 @@ The computer uses the **Minimax** algorithm with **alpha–beta pruning**, so it
 
 ```bash
 # Clone + enter the project
-git clone https://github.com/<YOUR-USERNAME>/tic-tac-toe.git
+git clone https://github.com/LynnFang00/tic-tac-toe.git
 cd tic-tac-toe
 
 # (Optional) create virtual-env
@@ -35,3 +35,4 @@ python -m venv .venv
 
 # Run the game
 python -m tic_tac_toe
+```
